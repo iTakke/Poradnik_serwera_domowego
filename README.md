@@ -2,7 +2,7 @@
 
 ### Przedmioty ktore potrzebujemy:
 1. Tani komputer typu firmowy
-2. RJ45
+2. rufus
 3. Internet
 4. Dobry humor
 
@@ -19,5 +19,9 @@ Ubuntu server
 ```
 Wraz z lekkim gui:
 ```
-Xubuntu
+Xubuntu (mój wybór)
 ```
+
+Musimy przejść przez instalacje, której nie bede opisywal jest dosc prosta
+
+
