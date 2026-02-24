@@ -11,10 +11,10 @@ i5 6600
 8GB RAM
 128GB SSD NVME
 
-Mocno **zalecam** instalacje *linuxa* na naszym nowym serwerze, przy takiej ilosci ramu jak 8gb instalownie windowsa moze zabrac duzo ramu.
+Mocno **zalecam** instalacje **linuxa** na naszym nowym serwerze, przy takiej ilosci ramu jak 8gb instalownie windowsa moze zabrac duzo ramu.
 
 Mozemy zrobić na 2 sposoby:
-konsolowo:
+```Konsolowo:
 Ubuntu server 
 Wraz z lekkim gui:
-Xubuntu
+Xubuntu```
