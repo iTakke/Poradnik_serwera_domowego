@@ -14,9 +14,12 @@ i5 6600
 Mocno **zalecam** instalacje **linuxa** na naszym nowym serwerze, przy takiej ilosci ramu jak 8gb instalownie windowsa moze zabrac duzo ramu.
 
 Mozemy zrobić na 2 sposoby:
-```
+
 Konsolowo:
-Ubuntu server 
+```
+Ubuntu server
+```
 Wraz z lekkim gui:
+```
 Xubuntu
 ```
