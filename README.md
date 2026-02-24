@@ -22,6 +22,8 @@ Wraz z lekkim gui:
 Xubuntu (mój wybór)
 ```
 
-Musimy przejść przez instalacje, której nie bede opisywal jest dosc prosta
+Musimy przejść przez instalacje, której nie będę opisywał jest dość prosta.
+
+TBC...
 
 
