@@ -4,7 +4,7 @@
 1. Tani komputer typu firmowy
 2. rufus
 3. Internet
-4. Dobry humor
+4. trochę czasu
 
 ### Dla przykladu ja kupilem komputer za 300 zł Dell Optiplex 7040 SFF z:
 i5 6600 | 8GB RAM | 128GB SSD NVME
