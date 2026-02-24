@@ -7,9 +7,7 @@
 4. Dobry humor
 
 ### Dla przykladu ja kupilem komputer za 300 zł Dell Optiplex 7040 SFF z:
-i5 6600
-8GB RAM
-128GB SSD NVME
+i5 6600 | 8GB RAM | 128GB SSD NVME
 
 Mocno **zalecam** instalacje **linuxa** na naszym nowym serwerze, przy takiej ilosci ramu jak 8gb instalownie windowsa moze zabrac duzo ramu.
 
