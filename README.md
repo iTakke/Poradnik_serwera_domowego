@@ -1,6 +1,6 @@
-##Poradnik dotyczący serwera domowego, możliwości wykorzystania go za niewielkie pieniądze
+## Poradnik dotyczący serwera domowego, możliwości wykorzystania go za niewielkie pieniądze
 
-###Przedmioty ktore potrzebujemy:
+### Przedmioty ktore potrzebujemy:
 1. Tani komputer typu firmowy
 2. RJ45
 3. Internet
